@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-blog-card-with-resizable-fonts-k4qi2btZy5
+- Live Site URL: https://may55a.github.io/blog-preview-card/
 
 ## My process
 
